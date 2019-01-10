@@ -18,6 +18,9 @@ and then
 
     $ make ).
 
-To execute the example we write $ ./point_features when inside the webcam_point_features directory.
+To execute the example we write 
+
+    $ ./point_features 
+when inside the webcam_point_features directory.
 
 
