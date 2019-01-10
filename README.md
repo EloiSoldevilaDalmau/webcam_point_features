@@ -1,5 +1,6 @@
 # webcam_point_features
-Exercise 2.1 of the Perception Systems course. Detection of ORB features from online webcam imges.
+Exercise 2.1 of the Perception Systems course. Detection of ORB features from online webcam images.
+
 
 
 We start the exercise bu forking the git repository https://github.com/beta-robots/webcam_point_features, cloning it to out computer with the command
