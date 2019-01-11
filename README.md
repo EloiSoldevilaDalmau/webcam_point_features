@@ -36,10 +36,15 @@ ORB also gives a description (of its information, position, orientation...) of e
 
 
 References:
+
 https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_orb/py_orb.html
+
 https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_fast/py_fast.html
+
 https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_feature2d/py_brief/py_brief.html
+
 http://www.willowgarage.com/sites/default/files/orb_final.pdf
+
 
 # Aplication of a mask
 
