@@ -2,16 +2,16 @@
 Exercise 2.1 of the Perception Systems course. Detection of ORB features from online webcam images.
 
 
-We start the exercise by forking the git repository https://github.com/beta-robots/webcam_point_features, cloning it to out computer with the command
+We start the exercise by forking the git repository https://github.com/beta-robots/webcam_point_features, cloning it to our computer with the command
 
     $  git clone https://github.com/EloiSoldevilaDalmau/webcam_point_features
   
 and building the point_capture example.
 
-To build it we create a directory called "build" inside the webcam_point_features directory (
+To build it we create a directory called "build" inside the webcam_point_features directory
 
     $ mkdir build
-) and, being inside the new directory compiling it cmake files. First with 
+and, being inside the new directory we compile and run the make file. First with 
 
     $ cmake .. 
 and then 
