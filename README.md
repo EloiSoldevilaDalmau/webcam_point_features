@@ -31,7 +31,9 @@ The following image is an example of what can be seen using it.
 # Explanation of ORB features
 
 ORB is a function that detects the keypoints of an image. A keypoint is a point of an image that correspond to an spatial location and stand out because no matter how the image changes the same keypoint can be found. Keypoints are used to find which spatial points can be found in more than one image. The way you find keypoints is with functions like ORB.
+
 ORB first uses the FAST keypoint detector to detect interesting keypoints. To find keypoints FAST looks at the pixels surrounding a point and compares the contrast between a point and its surroundings. An interesting keypoint will be one point that has lots of contrasts with the points surrounding it in different directions.
+
 ORB also gives a description (of its information, position, orientation...) of each of these interesting keypoints with an function based on BRIEF descriptors.
 
 
