@@ -61,3 +61,5 @@ This increases a lot the lag of the output video but achieves the intended resul
 <img src="images/point_features_2.png" width="500">
 
 We see a lot less keypoints than in the previous image because we have decreased a lot the number of keypoints we want to see but it can be seen that the keypoints are very sparse.
+
+The files in this repository are the ones modified to apply the mask.
